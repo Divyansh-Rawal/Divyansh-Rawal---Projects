@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyansh-Rawal
-- 👀 I’m interested in coding and new technologies.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Coding and new Technologies.
+- 🌱 I’m currently learning Cloud Computing Online Course.
 - 💞️ I’m looking to collaborate on ...
 
 <!---
